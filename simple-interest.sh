@@ -3,7 +3,7 @@
 # Do not use this in production. Sample purpose only.
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# snbros
+# sahil663111
 
 # Input:
 # p, principal amount

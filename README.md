@@ -17,7 +17,7 @@ bash simple-interest.sh
 
 ## Authors
 - Upkar Lidder (IBM)
-- snbros
+- sahil663111
 
 ## License
 Apache-2.0
